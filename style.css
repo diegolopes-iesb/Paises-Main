@@ -183,6 +183,15 @@ ul{
     list-style-position: inside
 }
 
+#lista1{
+    list-style-position: inside
+    list-style-type: square
+}
+
+#lista2{
+    list-style-position: inside
+}
+
 /*CSS DE FORMULÁRIO.HTML*/
 
 body {
