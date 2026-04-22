@@ -179,6 +179,10 @@ ul{
     text-align: center;
 }
 
+#lista{
+    list-style-position: inside
+}
+
 /*CSS DE FORMULÁRIO.HTML*/
 
 body {
