@@ -185,7 +185,7 @@ ul{
 
 #lista1{
     list-style-position: inside;
-    list-style-type: disc;
+    list-style-type:circle;
 }
 
 #lista2{
